@@ -2,7 +2,7 @@
  
 A smart and user-friendly **Movie Recommendation System** built using **Python** and **Flask** that helps users discover movies based on their interests, preferences, and viewing history. The system uses recommendation techniques such as **Collaborative Filtering**, **Content-Based Filtering**, and **Hybrid Models** to suggest relevant movies.
  
-🔗 **GitHub Repository:** https://github.com/RitabrataRC/Movie-Recommendation-.git
+🔗 **GitHub Repository:** https://github.com/aadyasha/Movie-Recommendation-System.git
  
 ---
  
